@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Tailwind.Traders.Web.Standalone;
 // trigger a pr verification build
+// trigger a pr ver build test 2
 namespace Tailwind.Traders.Web
 {
     public class Startup
@@ -77,4 +78,5 @@ namespace Tailwind.Traders.Web
         }
     }
 }
+
 
